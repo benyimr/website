@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/benyimr
   - link: https://scholar.google.com/citations?user=j4Fc7W8AAAAJ&hl=es
-    icon_pack: fab
+    icon_pack: ai
     icon: google-scholar
 education:
   courses:
