@@ -8,12 +8,12 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Hola hola
 interests:
   - Voter Turnout
-  - Political Ideology
-  - Inequality
+  - Ideology
+  - Political Behavior
+  - Social Networks
 social:
   - icon: envelope
     icon_pack: fas
@@ -21,12 +21,12 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/benyimr
+  - link: https://scholar.google.com/citations?user=j4Fc7W8AAAAJ&hl=es
+    icon_pack: fab
+    icon: google-scholar
 education:
   courses:
     - course: Msc Political Science
